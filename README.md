@@ -6,14 +6,14 @@
 # Install
 - Linux or MacOS
 ```bash
-git clone https://github.com/NvChad/tinyvim ~/.config/nvim && nvim
+git clone https://github.com/pjgraczyk/nvim_setup && nvim
 ```
 
 Run `:MasonInstallAll` command after lazy.nvim finishes downloading plugins
 
 - Windows
 ```bash
-git clone https://github.com/NvChad/tinyvim $HOME\AppData\Local\nvim --depth 1 && nvim
+git clone https://github.com/pjgraczyk/nvim_setup $HOME\AppData\Local\nvim --depth 1 && nvim
 ```
 
 Run `:MasonInstallAll` command after lazy.nvim finishes downloading plugins
@@ -59,3 +59,25 @@ Below is the list of some very important plugins which I think should be must fo
 | comment.nvim            | Commenting                                   |
 | telescope.nvim          | Fuzzy finder                                 |
 | conform.nvim            | Formatter                                    |
+
+# Neovim Cheatsheet
+
+| Shortcuts         | Description
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
